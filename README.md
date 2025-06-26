@@ -18,6 +18,8 @@ Configuração do Laptop1:
 - Default Gateway
 - DNS Server
 
+![[Pasted image 20250626190059.png]]
+
 ![[Pasted image 20250626181455.png]]
 
 ## Laptop 2
@@ -31,6 +33,8 @@ Configuração do Laptop 2:
 - Default Gateway
 - DNS Server
 
+![[Pasted image 20250626190028.png]]
+
 ![[Pasted image 20250626181703.png]]
 
 ## Server
@@ -43,6 +47,8 @@ Configuração do Web Server:
 - Default Gateway 
 - DNS Server
 - HTTP/HTTPS On
+
+![[Pasted image 20250626190150.png]]
 
 ![[Pasted image 20250626181749.png]]
 
