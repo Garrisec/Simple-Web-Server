@@ -18,9 +18,10 @@ Configuração do Laptop1:
 - Default Gateway
 - DNS Server
 
-![[Pasted image 20250626190059.png]]
 
-![[Pasted image 20250626181455.png]]
+![Laptop1-2](Screenshots/Pasted-image-20250626190059.png)
+
+![Laptop1-2](Screenshots/Pasted-image-20250626181455.png)
 
 ## Laptop 2
 
@@ -33,9 +34,9 @@ Configuração do Laptop 2:
 - Default Gateway
 - DNS Server
 
-![[Pasted image 20250626190028.png]]
+![Laptop2-1](Screenshots/Pasted-image-20250626190028.png)
 
-![[Pasted image 20250626181703.png]]
+![Laptop2-2](Screenshots/Pasted-image-20250626181703.png)
 
 ## Server
 
@@ -48,11 +49,12 @@ Configuração do Web Server:
 - DNS Server
 - HTTP/HTTPS On
 
-![[Pasted image 20250626190150.png]]
+![Server0-1](Screenshots/Pasted-image-20250626190150.png)
 
-![[Pasted image 20250626181749.png]]
+![Server0-2](Screenshots/Pasted-image-20250626181749.png)
 
-![[Pasted image 20250626181949.png]]
+![Server0-3](Screenshots/Pasted-image-20250626181949.png)
+
 
 ## Testes
 
@@ -60,4 +62,4 @@ Testando conectividade do Laptop 1 para o server:
 
 Após enviar uma requisição ao servidor web através do IP "192.168.1.3" ele devolve algumas páginas HTML.
 
-![[Pasted image 20250626182253.png]]
+![Tests](Screenshots/Pasted-image-20250626182253.png)
