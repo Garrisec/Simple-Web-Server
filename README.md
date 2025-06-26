@@ -5,6 +5,8 @@ Esse é um projeto onde mostro meus conhecimentos sobre configuração de host, 
 ## Geral
 
 ![General](Screenshots/Pasted image 20250626181322.png)
+![General](Screenshots/Pasted image 20250626181322.png)
+
 
 ## Laptop1 
 
