@@ -2,6 +2,8 @@
 
 Esse é um projeto onde mostro meus conhecimentos sobre configuração de host, switch and web server.
 
+O arquivo "Hosts-Switch-WebServer.pkt" acima contém o projeto que pode ser aberto usando o Packet Tracer.
+
 ## Geral
 
 ![General](Screenshots/Pasted-image-20250626181322.png)
